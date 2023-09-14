@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon ./src/app.ts",
-    "db:sync": "nodemon ./src/db/sync.ts"
+    "dev": "nodemon ./src/app.ts"
   },
   "keywords": [],
   "author": "",

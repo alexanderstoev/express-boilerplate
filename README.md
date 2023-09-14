@@ -67,7 +67,14 @@ To get a local copy up and running follow these simple example steps.
    npm i
    ```
 6. Delete the contents of the README.md file and add your info
-7. Start editing in `/src/app.ts`
+7. Update the info in the package.json file
+8. To run the app use
+
+```sh
+npm run dev
+```
+
+9. Start editing in `/src/app.ts`
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
