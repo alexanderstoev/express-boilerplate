@@ -53,7 +53,7 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    git clone https://github.com/alexanderstoev/express-boilerplate.git new-repo-name
    ```
-2. `cd` into the `new-repo-name` forlder (or whatever you used in the above step). 
+2. `cd` into the `new-repo-name` folder (or whatever you used in the above step).
 3. Remove the .git folder. This will wipe all git history and version contrtoll.
    ```sh
    npx rimraf ./.git
@@ -63,9 +63,9 @@ To get a local copy up and running follow these simple example steps.
    git init
    ```
 5. Install packages
-    ```sh
-    npm i
-    ```
+   ```sh
+   npm i
+   ```
 6. Delete the contents of the README.md file and add your info
 7. Start editing in `/src/app.ts`
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -100,7 +100,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Acknowledgments
 
 - [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
